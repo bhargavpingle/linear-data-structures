@@ -30,3 +30,4 @@ public class SelfShufflingList<T> {
         return data;
     }
 }
+
